@@ -2,7 +2,7 @@ package waktu;
 
 /**
  *
- * @author herman
+ * @author adit
  */
 import java.util.Scanner;
 public class Konversi {
